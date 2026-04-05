@@ -1,0 +1,65 @@
+# Hi, I’m Abdalrahman Atyani 👋  
+Game Developer • 3D Artist • VR Specialist (Unity / C#)
+
+I’m a Game Developer and 3D Artist with a specialized background in **Virtual Reality**, graduated from **Al-Balqa Applied University**. I build immersive VR experiences and scalable game systems, with a strong focus on clean architecture, performance, and player-centric design.
+
+---
+
+## What I do
+- **VR simulations & training** (medical and research-focused experiences)
+- **Unity gameplay & systems engineering** (C#)
+- **Scalable mobile game architectures**
+- **Procedural content/ level generation**
+- **LiveOps & backend integration** (PlayFab & Firestore)
+- **Asset delivery pipelines** (Addressables)
+- **3D art & real-time optimization** for interactive applications
+
+---
+
+## Experience
+### Progressive Generation Studio
+At Progressive Generation Studio, I’ve focused on building robust Unity systems and production-ready pipelines, including:
+- Procedural level generation workflows
+- PlayFab authentication, player data, economy, and live services integration
+- Addressables-based content management for scalable delivery
+- Maintainable architectures designed for iteration speed and long-term growth
+
+#### Revalon
+
+
+---
+
+## Featured Projects
+### Minds Odyssey
+A VR tool designed to support **ADHD diagnosis**, combining immersive interaction design with reliable technical implementation.
+
+### PhVRmacist
+A VR experience for **medical training**, built to simulate realistic scenarios for learning and practice in a controlled environment.
+
+---
+
+## Tech Stack
+- **Engine:** Unity  
+- **Language:** C#  
+- **VR:** Unity XR (project-dependent)  
+- **Backend:** PlayFab & Firebase
+- **Content Delivery:** Addressables
+- **3D Design:** Blender, Adobe Substance Painter
+- **Core Strengths:** Systems design, performance optimization, procedural generation, production pipelines
+
+---
+
+## Highlights
+- Strong intersection of **technical excellence + creative design**
+- Comfortable leading features from concept → implementation → polish
+- Focused on building systems that are **reliable, scalable, and easy to extend**
+
+---
+
+## Contact
+- **Email:** a.atyani3@gmail.com  
+- **Portfolio:** https://linktr.ee/virtuo.space
+- **LinkedIn:** https://www.linkedin.com/in/abdelrahman-atyani-0a7a68235/?locale=en
+- **Itch.io / Store pages:** https://virtuospace.itch.io/
+
+---
