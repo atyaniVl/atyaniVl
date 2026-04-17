@@ -17,7 +17,7 @@ I’m a Game Developer and 3D Artist with a specialized background in **Virtual 
 ---
 
 ## Experience
-### Progressive Generation Studio <img width="1024" height="1022" alt="image" src="https://github.com/user-attachments/assets/ff5bf925-60a5-46ac-97e4-0f092c3a2f93" />
+### Progressive Generation Studio <img width="1024/10" height="1022/10" alt="image" src="https://github.com/user-attachments/assets/ff5bf925-60a5-46ac-97e4-0f092c3a2f93" />
 At Progressive Generation Studio, I’ve focused on building robust Unity systems and production-ready pipelines, including:
 - Procedural level generation workflows
 - PlayFab authentication, player data, economy, and live services integration
