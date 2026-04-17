@@ -26,6 +26,7 @@ At Progressive Generation Studio, I’ve focused on building robust Unity system
 - Maintainable architectures designed for iteration speed and long-term growth
 
 #### Revalon
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/38cdc22e-dc62-415d-98b8-81458179fe6d" />
 
 
 ---
