@@ -25,7 +25,7 @@ At Progressive Generation Studio, I’ve focused on building robust Unity system
 - Addressables-based content management for scalable delivery
 - Maintainable architectures designed for iteration speed and long-term growth
 
-### <a href="[https://youtu.be/6t3qY_FMF9c](https://play.google.com/store/apps/details?id=com.pgstudios.revalon&hl=en)" target="_blank">Revalon</a>
+### <a href="[https://play.google.com/store/apps/details?id=com.pgstudios.revalon&hl=en]" target="_blank">Revalon</a>
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/38cdc22e-dc62-415d-98b8-81458179fe6d" />
 Revalon is a cinematic, physics-based arcade game featuring endless progression. Players control a living planet using a drag-and-release mechanic, ascending through dynamically evolving 3D environments with shifting lighting, colors, and ambient audio.
 
