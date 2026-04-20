@@ -36,14 +36,19 @@ Talal & Talia is an interactive educational puzzle game designed to help childre
 ---
 
 ## Featured Projects
-### Minds Odyssey
+### <a href="https://youtu.be/6t3qY_FMF9c" target="_blank">Minds Odyssey</a>
 A VR tool designed to support **ADHD diagnosis**, combining immersive interaction design with reliable technical implementation.
 
 <img width="1577" height="888" alt="image" src="https://github.com/user-attachments/assets/55cac8eb-6df4-44b2-81c3-000582489312" />
 
 
-### PhVRmacist
+### <a href="https://phvrmacist-358fb.web.app/" target="_blank">PhVRmacist</a>
 A VR experience for **medical training**, built to simulate realistic scenarios for learning and practice in a controlled environment.
+
+
+<img width="1919" height="1011" alt="Screenshot 2026-04-20 175024" src="https://github.com/user-attachments/assets/aa3b3e4b-bc47-4402-a391-c5b023c7b3ab" />
+<img width="1919" height="1011" alt="Screenshot 2026-04-20 175041" src="https://github.com/user-attachments/assets/f5c29e19-c53c-4cca-a171-55878de1d1b6" />
+
 
 ---
 
