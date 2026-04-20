@@ -45,9 +45,12 @@ A VR tool designed to support **ADHD diagnosis**, combining immersive interactio
 ### <a href="https://phvrmacist-358fb.web.app/" target="_blank">PhVRmacist</a>
 A VR experience for **medical training**, built to simulate realistic scenarios for learning and practice in a controlled environment.
 
+<p align="center">
+<img width="380" alt="Screenshot 2026-04-20 175024" src="https://github.com/user-attachments/assets/aa3b3e4b-bc47-4402-a391-c5b023c7b3ab" />
+<img width="380" alt="Screenshot 2026-04-20 175041" src="https://github.com/user-attachments/assets/f5c29e19-c53c-4cca-a171-55878de1d1b6" />
 
-<img width="1919" height="1011" alt="Screenshot 2026-04-20 175024" src="https://github.com/user-attachments/assets/aa3b3e4b-bc47-4402-a391-c5b023c7b3ab" />
-<img width="1919" height="1011" alt="Screenshot 2026-04-20 175041" src="https://github.com/user-attachments/assets/f5c29e19-c53c-4cca-a171-55878de1d1b6" />
+</p>
+
 
 
 ---
