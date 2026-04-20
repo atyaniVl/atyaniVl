@@ -17,7 +17,7 @@ I’m a Game Developer and 3D Artist with a specialized background in **Virtual 
 ---
 
 ## Experience
-### Progressive Generation Studio 
+### <a href="https://pg-holding.com/" target="_blank">Progressive Generation Studio</a>
 <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/ff5bf925-60a5-46ac-97e4-0f092c3a2f93" /> 
 At Progressive Generation Studio, I’ve focused on building robust Unity systems and production-ready pipelines, including:
 - Procedural level generation workflows
