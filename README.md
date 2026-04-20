@@ -5,7 +5,7 @@ I’m a Game Developer and 3D Artist with a specialized background in **Virtual 
 
 ---
 
-## What I do
+## What I Do
 - **VR simulations & training** (medical and research-focused experiences)
 - **Unity gameplay & systems engineering** (C#)
 - **Scalable mobile game architectures**
@@ -25,7 +25,7 @@ At Progressive Generation Studio, I’ve focused on building robust Unity system
 - Addressables-based content management for scalable delivery
 - Maintainable architectures designed for iteration speed and long-term growth
 
-### <a href="https://play.google.com/store/apps/details?id=com.pgstudios.revalon&hl=en" target="_blank">Revalon</a>
+#### <a href="https://play.google.com/store/apps/details?id=com.pgstudios.revalon&hl=en" target="_blank">Revalon</a>
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/38cdc22e-dc62-415d-98b8-81458179fe6d" />
 Revalon is a cinematic, physics-based arcade game featuring endless progression. Players control a living planet using a drag-and-release mechanic, ascending through dynamically evolving 3D environments with shifting lighting, colors, and ambient audio.
 
@@ -74,9 +74,9 @@ A VR experience for **medical training**, built to simulate realistic scenarios 
 ---
 
 ## Contact
-- **Email:** a.atyani3@gmail.com  
-- **Portfolio:** https://linktr.ee/virtuo.space
-- **LinkedIn:** https://www.linkedin.com/in/abdelrahman-atyani-0a7a68235/?locale=en
-- **Itch.io / Store pages:** https://virtuospace.itch.io/
+- **Email:** [a.atyani3@gmail.com](mailto:a.atyani3@gmail.com)  
+- **Portfolio:** [linktr.ee/virtuo.space](https://linktr.ee/virtuo.space)
+- **LinkedIn:** [linkedin.com/in/abdelrahman-atyani](https://www.linkedin.com/in/abdelrahman-atyani-0a7a68235/)
+- **Itch.io / Store pages:** [virtuospace.itch.io](https://virtuospace.itch.io/)
 
 ---
