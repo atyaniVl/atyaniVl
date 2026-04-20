@@ -30,8 +30,9 @@ At Progressive Generation Studio, I’ve focused on building robust Unity system
 Revalon is a cinematic, physics-based arcade game featuring endless progression. Players control a living planet using a drag-and-release mechanic, ascending through dynamically evolving 3D environments with shifting lighting, colors, and ambient audio.
 
 #### Talal And Talia
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f7c19768-7719-4fc7-8aaf-be0a53bb9285" />
-Talal & Talia is an interactive educational puzzle game designed to help children (ages 4-9) explore Jordan's cultural landmarks. It features a variety of ad-free mini-games—including memory matching, puzzles, and coloring-focused on learning through play with a positive reward system.
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f7c19768-7719-4fc7-8aaf-be0a53bb9285" />
+Talal & Talia is an interactive educational puzzle game designed to help children (ages 4-9) explore Jordan's cultural landmarks. It features a variety of ad-free mini-games, including memory matching, puzzles, and coloring, focused on learning through play with a positive reward system.
+
 ---
 
 ## Featured Projects
